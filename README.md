@@ -26,10 +26,14 @@ Welcome to Tetris 2048! This project combines the classic gameplay of Tetris wit
 * Python 3.x
 * numpy library
 
+
+  <img width="805" alt="Ekran Resmi 2024-04-21 00 15 50" src="https://github.com/sinemozbey/TETRIS-2048-GAME/assets/117225280/d0dce183-11f9-45c2-ba0b-4fb3c4e578f5">
+
+
+
 <img width="804" alt="Ekran Resmi 2024-04-21 00 17 42" src="https://github.com/sinemozbey/TETRIS-2048-GAME/assets/117225280/19d05f0b-4f09-4716-900b-2b16c4605e15">
 
 
-<img width="805" alt="Ekran Resmi 2024-04-21 00 15 50" src="https://github.com/sinemozbey/TETRIS-2048-GAME/assets/117225280/d0dce183-11f9-45c2-ba0b-4fb3c4e578f5">
 
 <img width="801" alt="Ekran Resmi 2024-04-21 00 17 53" src="https://github.com/sinemozbey/TETRIS-2048-GAME/assets/117225280/771b77bf-994f-4db9-b660-173990e3f835">
 
